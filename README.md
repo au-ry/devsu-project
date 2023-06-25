@@ -62,12 +62,21 @@ En la prueba e2e:
 4. Se completa el formulario de compra.
 5. Se obtiene el mensaje de confirmacion "Thank you for your order".
 
+En esta prueba utlize la pagina https://www.saucedemo.com/
+Luego de leer la docuementacion automatize los casos de prueba. 
+Segui los pasos previamente establecidos y los resultados fueron exitosos.
+
+
 En la prueba API:
 1. Se crea un usuario.
 2. Se busca el usuario creado.
 3. Se actualiza el nombre y el correo del usuario.
 4. Se busca el usuario actualizado.
 5. Se elimina el usuario.
+   
+En esta prueba utlize la pagina https://petstore.swagger.io/.
+Luego de leer la documentacion autmatize los casos de prueba. 
+Segui los pasos previamente establecidos y los resultados fueron exitosos.
 
 In the e2e test:
 
@@ -77,6 +86,8 @@ In the e2e test:
 4. The purchase form is completed.
 5. The confirmation message "Thank you for your order" is obtained.
 
+In this test, I used the website https://www.saucedemo.com/. After reading the documentation, I automated the test cases. I followed the predefined steps, and the results were successful.
+
 In the API test:
 
 1. A user is created.
@@ -84,6 +95,8 @@ In the API test:
 3. The name and email of the user are updated.
 4. The updated user is searched.
 5. The user is deleted.
+   
+In this test, I used the website https://petstore.swagger.io/. After reading the documentation, I automated the test cases. I followed the predefined steps, and the results were successful.
 
 ## Contacto/Contact
 *Aury Lopez*
