@@ -58,13 +58,13 @@ For API testing:
 En la prueba e2e:
 1. Se loguea el usuario.
 2. Se agregan 2 productos al carrito. 
-3. Se visaualiza el carrito. 
+3. Se visualiza el carrito. 
 4. Se completa el formulario de compra.
 5. Se obtiene el mensaje de confirmación "Thank you for your order".
 
-En esta prueba utlize la pagina https://www.saucedemo.com/
-Luego de leer la docuementacion automatize los casos de prueba. 
-Segui los pasos previamente establecidos y los resultados fueron exitosos.
+En esta prueba utilicé la pagina https://www.saucedemo.com/
+Luego de leer la documentación automaticé los casos de prueba. 
+Seguí  los pasos previamente establecidos y los resultados fueron exitosos.
 
 
 En la prueba API:
@@ -74,15 +74,15 @@ En la prueba API:
 4. Se busca el usuario actualizado.
 5. Se elimina el usuario.
    
-En esta prueba utlize la página https://petstore.swagger.io/.
-Luego de leer la documentación automatice los casos de prueba. 
-Segui los pasos previamente establecidos y los resultados fueron exitosos.
+En esta prueba utilicé la página https://petstore.swagger.io/.
+Luego de leer la documentación, automaticé los casos de prueba. 
+Seguí los pasos previamente establecidos y los resultados fueron exitosos.
 
 In the e2e test:
 
 1. The user logs in.
-2. 2 products are added to the shopping cart.
-3. The shopping cart is viewed.
+2. Two products are added to the shopping cart.
+3. The shopping cart is displayed.
 4. The purchase form is completed.
 5. The confirmation message "Thank you for your order" is obtained.
 
@@ -102,12 +102,3 @@ In this test, I used the website https://petstore.swagger.io/. After reading the
 *Aury Lopez*
 
 auryc.lopez@gmail.com
-
- 
- 
-
-
-
-
-
-
