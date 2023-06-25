@@ -1,7 +1,7 @@
 # Proyecto Cypress para Devsu /Cypress project for Devsu
 
 
-Para este proyecto elegi el ejercicio 2 para E2E testing y el ejercicio 3 para el API testing.
+Para este proyecto elegí el ejercicio 2 para E2E testing y el ejercicio 3 para la API testing.
 For this project, I chose exercise 2 for E2E testing and exercise 3 for API testing.
 
 ## Tabla de contenidos
@@ -17,7 +17,7 @@ Por favor, instala node.js para poder instalar Cypress a través de npm.
 Clona el repositorio usando 
 ``` git clone https://github.com/au-ry/devsu-project.git ```
 
-Navega a la  la carpeta devsu-project
+Navega a la carpeta devsu-project
 
 Ya dentro del directorio instala Cypress a través de npm:
 
@@ -26,7 +26,7 @@ Ya dentro del directorio instala Cypress a través de npm:
 Esto instalará Cypress localmente como una dependencia de desarrollo para tu proyecto.
 Asegúrate de haber ejecutado ```npm init``` o de tener una carpeta ```node_modules``` o un archivo ```package.json``` en la raíz de tu proyecto para asegurarte de que Cypress se instale en el directorio correcto.
 
-Por defecto, las pruebas se ejecutan en modo "headless" (sin interfaz gráfica). Para ejecutar las pruebas en la consola con interfaz grafica, utiliza los siguientes comandos:
+Por defecto, las pruebas se ejecutan en modo "headless" (sin interfaz gráfica). Para ejecutar las pruebas en la consola con interfaz gráfica, utiliza los siguientes comandos:
 
 Para el e2e testing ``` npx cypress run --spec cypress\e2e\store-purchase-spec.cy.js --headed```
 
@@ -58,9 +58,9 @@ For API testing:
 En la prueba e2e:
 1. Se loguea el usuario.
 2. Se agregan 2 productos al carrito. 
-3. Se viaualiza el carrito, 
+3. Se visaualiza el carrito. 
 4. Se completa el formulario de compra.
-5. Se obtiene el mensaje de confirmacion "Thank you for your order".
+5. Se obtiene el mensaje de confirmación "Thank you for your order".
 
 En esta prueba utlize la pagina https://www.saucedemo.com/
 Luego de leer la docuementacion automatize los casos de prueba. 
@@ -74,8 +74,8 @@ En la prueba API:
 4. Se busca el usuario actualizado.
 5. Se elimina el usuario.
    
-En esta prueba utlize la pagina https://petstore.swagger.io/.
-Luego de leer la documentacion autmatize los casos de prueba. 
+En esta prueba utlize la página https://petstore.swagger.io/.
+Luego de leer la documentación automatice los casos de prueba. 
 Segui los pasos previamente establecidos y los resultados fueron exitosos.
 
 In the e2e test:
