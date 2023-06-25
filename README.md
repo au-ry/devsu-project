@@ -94,7 +94,7 @@ In the API test:
 2. The created user is searched.
 3. The name and email of the user are updated.
 4. The updated user is searched.
-5. The user is deleted.
+5. Delete the user.
    
 In this test, I used the website https://petstore.swagger.io/. After reading the documentation, I automated the test cases. I followed the predefined steps, and the results were successful.
 
