@@ -54,7 +54,7 @@ For E2E testing:
 For API testing:
 ```npx cypress run --spec cypress\e2e\pet-store-API-spec.cy.js --headed```
 
-## Caracterisiticas/Features
+## Características/Features
 En la prueba e2e:
 1. Se loguea el usuario.
 2. Se agregan 2 productos al carrito. 
