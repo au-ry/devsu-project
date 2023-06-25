@@ -7,8 +7,8 @@ For this project, I chose exercise 2 for E2E testing and exercise 3 for API test
 ## Tabla de contenidos
 1. [Instalación](#instalación)
 2. [Installation](#installation)
-3. [Características/Features](#características)
-4. [Contacto/Contact](#contacto)
+3. [Características/Features](#características/features)
+4. [Contacto/Contact](#contacto/contact)
 
 
 ## Instalación  
