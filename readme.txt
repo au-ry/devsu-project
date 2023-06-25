@@ -3,8 +3,6 @@ Proyecto Cypress para Devsu /Cypress project for Devsu
 Para este proyecto elegi el ejercicio 2 para E2E testing y el ejercicio 3 para el API testing.
 For this project, I chose exercise 2 for E2E testing and exercise 3 for API testing.
 
-
-
 Instalación  
 Por favor, instala node.js para poder instalar Cypress a través de npm.
 
@@ -20,7 +18,7 @@ Ya dentro del directorio instala Cypress a través de npm:
 Esto instalará Cypress localmente como una dependencia de desarrollo para tu proyecto.
 Asegúrate de haber ejecutado ```npm init``` o de tener una carpeta ```node_modules``` o un archivo ```package.json``` en la raíz de tu proyecto para asegurarte de que Cypress se instale en el directorio correcto.
 
-Por defecto, las pruebas se ejecutan en modo "headless" (sin interfaz gráfica). Para ejecutar las pruebas en la consola con interfaz grafica, utiliza los siguientes comandos:
+Por defecto, las pruebas se ejecutan en modo "headless" (sin interfaz gráfica). Para ejecutar las pruebas en la consola con interfaz gráfica, utiliza los siguientes comandos:
 
 Para el e2e testing ``` npx cypress run --spec cypress\e2e\store-purchase-spec.cy.js --headed```
 
@@ -40,7 +38,7 @@ Once inside the directory, install Cypress through npm:
 
 This will install Cypress locally as a development dependency for your project. Make sure you have run ```npm init``` or have a ```node_modules``` folder or a ```package.json``` file in the root of your project to ensure Cypress is installed in the correct directory.
 
-By default, the tests run in "headless" mode (without a graphical interface). To run the tests in the console with a graphical interface, use the following commands:
+By default, the tests run in "headless" mode (without a graphical interface). To run the tests on the console with a graphical interface, use the following commands:
 
 For E2E testing:
 ```npx cypress run --spec cypress\e2e\store-purchase-spec.cy.js --headed```
@@ -48,13 +46,13 @@ For E2E testing:
 For API testing:
 ```npx cypress run --spec cypress\e2e\pet-store-API-spec.cy.js --headed```
 
-Caracterisiticas/Features
+Características/Features
 En la prueba e2e:
 1. Se loguea el usuario.
 2. Se agregan 2 productos al carrito. 
-3. Se viaualiza el carrito, 
+3. Se visualiza el carrito. 
 4. Se completa el formulario de compra.
-5. Se obtiene el mensaje de confirmacion "Thank you for your order".
+5. Se obtiene el mensaje de confirmación "Thank you for your order".
 
 En la prueba API:
 1. Se crea un usuario.
@@ -66,8 +64,8 @@ En la prueba API:
 In the e2e test:
 
 1. The user logs in.
-2. 2 products are added to the shopping cart.
-3. The shopping cart is viewed.
+2. Two products are added to the shopping cart.
+3. The shopping cart is displayed.
 4. The purchase form is completed.
 5. The confirmation message "Thank you for your order" is obtained.
 
@@ -77,7 +75,7 @@ In the API test:
 2. The created user is searched.
 3. The name and email of the user are updated.
 4. The updated user is searched.
-5. The user is deleted.
+5. The user has been deleted.
 
 Contacto/Contact
 *Aury Lopez*
