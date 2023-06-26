@@ -1,5 +1,3 @@
-const { status } = require("wd/lib/commands")
-
 describe('Verify API testing ', () => {
     it('should create username', () => {
         cy.request({
