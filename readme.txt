@@ -6,6 +6,7 @@ For this project, I chose exercise 2 for E2E testing and exercise 3 for API test
 Instalación  
 Por favor, instala node.js para poder instalar Cypress a través de npm.
 
+Tienes que tener git instalado localmente para poder clonar el repositorio.
 Clona el repositorio usando 
 ``` git clone https://github.com/au-ry/devsu-project.git ```
 
@@ -28,6 +29,7 @@ Installation
 
 Please install Node.js in order to install Cypress through npm.
 
+You need to have Git installed locally in order to clone the repository.
 Clone the repository using:
 ```git clone https://github.com/au-ry/devsu-project.git```
 
