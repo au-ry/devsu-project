@@ -30,9 +30,9 @@ Asegúrate de haber ejecutado ```npm init``` o de tener una carpeta ```node_modu
 
 Por defecto, las pruebas se ejecutan en modo "headless" (sin interfaz gráfica). Para ejecutar las pruebas en la consola con interfaz gráfica, utiliza los siguientes comandos:
 
-Para el e2e testing ``` npx cypress run --spec cypress\e2e\store-purchase-spec.cy.js --headed```
+Para el e2e testing ``` npx cypress run --spec cypress/e2e/store-purchase-spec.cy.js --headed```
 
-Para el APi testing ``` npx cypress run --spec cypress\e2e\pet-store-API-spec.cy.js --headed```
+Para el APi testing ``` npx cypress run --spec cypress/e2e/pet-store-API-spec.cy.js --headed```
 
 ## Installation 
 
@@ -51,10 +51,10 @@ This will install Cypress locally as a development dependency for your project. 
 By default, the tests run in "headless" mode (without a graphical interface). To run the tests in the console with a graphical interface, use the following commands:
 
 For E2E testing:
-```npx cypress run --spec cypress\e2e\store-purchase-spec.cy.js --headed```
+```npx cypress run --spec cypress/e2e/store-purchase-spec.cy.js --headed```
 
 For API testing:
-```npx cypress run --spec cypress\e2e\pet-store-API-spec.cy.js --headed```
+```npx cypress run --spec cypress/e2e/pet-store-API-spec.cy.js --headed```
 
 ## Características/Features
 En la prueba e2e:
