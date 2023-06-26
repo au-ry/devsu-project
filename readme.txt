@@ -1,7 +1,7 @@
 Proyecto Cypress para Devsu /Cypress project for Devsu
 
-Para este proyecto elegi el ejercicio 2 para E2E testing y el ejercicio 3 para el API testing.
-For this project, I chose exercise 2 for E2E testing and exercise 3 for API testing.
+Para este proyecto elegí el ejercicio 2 para E2E testing y el ejercicio 3 para la API testing.Los test estan dentro de la carpeta cypress/e2e.
+For this project, I chose exercise 2 for E2E testing and exercise 3 for API testing.Tests are on cypress/e2e/.
 
 Instalación  
 Por favor, instala node.js para poder instalar Cypress a través de npm.
